@@ -1,0 +1,197 @@
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Tests.deps.json
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Tests.runtimeconfig.json
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Tests.runtimeconfig.dev.json
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Tests.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Tests.pdb
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.1\PaymentContext.Tests.csprojAssemblyReference.cache
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.1\PaymentContext.Tests.AssemblyInfoInputs.cache
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.1\PaymentContext.Tests.AssemblyInfo.cs
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.1\PaymentContext.Tests.csproj.CopyComplete
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.1\PaymentContext.Tests.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.1\PaymentContext.Tests.pdb
+C:\Estudos\DDD\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Domain.dll
+C:\Estudos\DDD\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Shared.dll
+C:\Estudos\DDD\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Shared.pdb
+C:\Estudos\DDD\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Domain.pdb
+C:\Estudos\DDD\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.1\PaymentContext.Tests.csproj.CoreCompileInputs.cache
+C:\Estudos\DDD\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.1\PaymentContext.Tests.genruntimeconfig.cache
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Tests.deps.json
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Tests.runtimeconfig.json
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Tests.runtimeconfig.dev.json
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Tests.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Tests.pdb
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Domain.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Shared.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Shared.pdb
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\PaymentContext.Domain.pdb
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.1\PaymentContext.Tests.csprojAssemblyReference.cache
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.1\PaymentContext.Tests.AssemblyInfoInputs.cache
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.1\PaymentContext.Tests.AssemblyInfo.cs
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.1\PaymentContext.Tests.csproj.CopyComplete
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.1\PaymentContext.Tests.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.1\PaymentContext.Tests.pdb
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.1\PaymentContext.Tests.genruntimeconfig.cache
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Tests\obj\Debug\netcoreapp3.1\PaymentContext.Tests.csproj.CoreCompileInputs.cache

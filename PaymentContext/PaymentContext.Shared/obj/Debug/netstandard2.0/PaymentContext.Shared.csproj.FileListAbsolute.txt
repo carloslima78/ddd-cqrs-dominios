@@ -1,0 +1,18 @@
+C:\estudos\ddd\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.deps.json
+C:\estudos\ddd\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\estudos\ddd\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csprojAssemblyReference.cache
+C:\estudos\ddd\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+C:\estudos\ddd\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfo.cs
+C:\estudos\ddd\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\estudos\ddd\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\Estudos\DDD\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.deps.json
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csprojAssemblyReference.cache
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfo.cs
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\Estudos\DDD\Modelando Objetos Ricos DDD e CQRS\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache

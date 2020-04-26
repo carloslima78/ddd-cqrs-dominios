@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z6wbp63TZc/wkUvMFoUH/bsBgJFgyI1FZ4pvoljcDCzHxRwWx3emwGebs2OD0Gb0DlMOEdiZWgLZfdICDr8p4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Estudos\\DDD\\Modelando Objetos Ricos DDD e CQRS\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlo\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
